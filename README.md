@@ -40,7 +40,7 @@ A function to show a countdown in console output
 
 [`Start-CountDown`](https://otterkring.github.io/PS_Start-CountDown)
 
-### Reveive-FinishingJob
+### Receive-FinishingJob
 
 A function to include into your multi-job pipeline to automatically receive finishing jobs
 
