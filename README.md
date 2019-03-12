@@ -14,6 +14,12 @@ How to manage read only access to exchange mailboxes
 
 [Read-Only Mailbox Access](https://otterkring.github.io/PS_ReadOnlyMailboxAccess)
 
+### ConvertTo-SecurityEnabledDistributionGroup
+
+Correctly convert a security group to a security-enabled universal distribution group
+
+[ConvertTo-SecurityEnabledDistributionGroup](https://otterkrint.github.io/PS_ConvertTo-SecurityEnabledDistributionGroup)
+
 ___
 
 ## CONSOLE General
