@@ -18,7 +18,7 @@ How to manage read only access to exchange mailboxes
 
 Correctly convert a security group to a security-enabled universal distribution group
 
-[ConvertTo-SecurityEnabledDistributionGroup](https://otterkrint.github.io/PS_ConvertTo-SecurityEnabledDistributionGroup)
+[ConvertTo-SecurityEnabledDistributionGroup](https://otterkring.github.io/PS_ConvertTo-SecurityEnabledDistributionGroup)
 
 ___
 
