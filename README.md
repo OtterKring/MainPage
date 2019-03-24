@@ -14,6 +14,12 @@ How to manage read only access to exchange mailboxes
 
 [Read-Only Mailbox Access](https://otterkring.github.io/PS_ReadOnlyMailboxAccess)
 
+### Receive Connector Remote IP Address Management
+
+Managing Remote IP Addresses on on-premise Receive Connectors
+
+[Receive Connector Remote IP Address Management](https://github.com/OtterKring/PS_ReceiveConnectorManagement)
+
 ### ConvertTo-SecurityEnabledDistributionGroup
 
 Correctly convert a security group to a security-enabled universal distribution group
