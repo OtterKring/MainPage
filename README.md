@@ -18,7 +18,7 @@ How to manage read only access to exchange mailboxes
 
 Managing Remote IP Addresses on on-premise Receive Connectors
 
-[Receive Connector Remote IP Address Management](https://github.com/OtterKring/PS_ReceiveConnectorManagement)
+[Receive Connector Remote IP Address Management](https://otterkring.github.io/OtterKring/PS_ReceiveConnectorManagement)
 
 ### ConvertTo-SecurityEnabledDistributionGroup
 
