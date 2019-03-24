@@ -20,6 +20,13 @@ Correctly convert a security group to a security-enabled universal distribution 
 
 [ConvertTo-SecurityEnabledDistributionGroup](https://otterkring.github.io/PS_ConvertTo-SecurityEnabledDistributionGroup)
 
+### Get-SMTPAddress
+
+List smpt addresses of a mail enabled object, Exchange Online or on-premise
+
+[Get-SMTPAddress](https://otterkring.github.io/PS_Get-SMTPAddress)
+
+
 ___
 
 ## CONSOLE General
