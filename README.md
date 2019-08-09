@@ -8,18 +8,6 @@ ___
 
 ## EXCHANGE
 
-### Read-Only Mailbox Permission Management
-
-How to manage read only access to exchange mailboxes
-
-[Read-Only Mailbox Access](https://otterkring.github.io/PS_ReadOnlyMailboxAccess)
-
-### Receive Connector Remote IP Address Management
-
-Managing Remote IP Addresses on on-premise Receive Connectors
-
-[Receive Connector Remote IP Address Management](https://otterkring.github.io/PS_ReceiveConnectorManagement)
-
 ### ConvertTo-SecurityEnabledDistributionGroup
 
 Correctly convert a security group to a security-enabled universal distribution group
@@ -32,16 +20,21 @@ List smpt addresses of a mail enabled object, Exchange Online or on-premise
 
 [Get-SMTPAddress](https://otterkring.github.io/PS_Get-SMTPAddress)
 
+### Read-Only Mailbox Permission Management
+
+How to manage read only access to exchange mailboxes
+
+[Read-Only Mailbox Access](https://otterkring.github.io/PS_ReadOnlyMailboxAccess)
+
+### Receive Connector Remote IP Address Management
+
+Managing Remote IP Addresses on on-premise Receive Connectors
+
+[Receive Connector Remote IP Address Management](https://otterkring.github.io/PS_ReceiveConnectorManagement)
 
 ___
 
 ## CONSOLE General
-
-### Watch-Command
-
-A function to continually monitor the console output of a scriptblock
-
-[`Watch-Command`](https://otterkring.github.io/PS_Watch-Command)
 
 ### Switch-Name
 
@@ -49,21 +42,33 @@ Reverse word order of names (or any space separated string)
 
 [`Switch-Name`](https://otterkring.github.io/PS_Switch-Name)
 
+### Watch-Command
+
+A function to continually monitor the console output of a scriptblock
+
+[`Watch-Command`](https://otterkring.github.io/PS_Watch-Command)
+
 ___
 
 ## HELPER Functions
 
-### Start-CountDown
+### Expand-IPRange
 
-A function to show a countdown in console output
+A function to calculate all ip address from a given ip range
 
-[`Start-CountDown`](https://otterkring.github.io/PS_Start-CountDown)
+[`Expand-IPRange`](https://otterkring.github.io/PS_Expand-IPRange/)
 
 ### Receive-FinishingJob
 
 A function to include into your multi-job pipeline to automatically receive finishing jobs
 
 [`Receive-FinishingJob`](https://otterkring.github.io/PS_Receive-FinishingJob)
+
+### Start-CountDown
+
+A function to show a countdown in console output
+
+[`Start-CountDown`](https://otterkring.github.io/PS_Start-CountDown)
 
 
 ___
