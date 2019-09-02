@@ -52,6 +52,12 @@ ___
 
 ## HELPER Functions
 
+### ConvertTo-WesternScript
+
+A function to replace localized characters by "native english" look-alikes or supplements (ä = ae, ß = ss, ł = l, ...)
+
+[`ConvertTo-WesternScript`](https://otterkring.github.io/PS_ConvertTo-WesternScript/)
+
 ### Expand-IPRange
 
 A function to calculate all ip address from a given ip range
